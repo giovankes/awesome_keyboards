@@ -11,3 +11,6 @@ src="https://camo.githubusercontent.com/e2e21c405b759312468840eea735b9d8e6b5c48e
 [atreus62](https://github.com/profet23/atreus62)
 <img
 src="https://github.com/profet23/atreus62/raw/master/images/midnight-atreus62.jpg"/>
+[pteron](https://github.com/FSund/pteron-keyboard)
+<img
+src="https://github.com/FSund/pteron-keyboard/raw/master/builds/20201002_141317.jpg"/>
